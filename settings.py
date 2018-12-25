@@ -1,0 +1,10 @@
+import os
+
+DATASET_PATH = "./"
+TRAIN_A_PATH = DATASET_PATH + "trainA/"
+TEST_A_PATH = DATASET_PATH + "testA/"
+TRAIN_B_PATH = DATASET_PATH + "trainB/"
+TEST_B_PATH = DATASET_PATH + "testB/"
+
+MODEL_DIRECTORY = "./model/"
+
